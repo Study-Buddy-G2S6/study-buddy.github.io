@@ -61,8 +61,8 @@ Admins oversee behavior and handle reports of inappropriate use.
 - Implement admin monitoring and gamification systems.
 
 ### Technology Stack (suggested)
-- Meteor + React for the web application.
-- MongoDB for user and session data.
+- Bootstrap + React for the web application.
+- PostgreSQL for user and session data.
 - FullCalendar.js for the session calendar UI.
 - Twilio API or Slack integration for notifications.
 
