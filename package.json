@@ -1,0 +1,17 @@
+{
+  "name": "study-buddy-site",
+  "version": "0.1.0",
+  "description": "Static Study Buddy site — run with npx or serve locally",
+  "bin": {
+    "study-buddy": "bin/serve.js"
+  },
+  "author": "Study-Buddy-G2S6",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node ./bin/serve.js --port 5173 --dir .",
+    "start": "node ./bin/serve.js --dir ."
+  },
+  "engines": {
+    "node": ">=12"
+  }
+}
