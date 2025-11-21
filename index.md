@@ -43,11 +43,11 @@ Study Buddy is an application designed for UHM ICS students to self-organize in-
 
 ### Approach
 To use Study Buddy, a student logs in and sets up a profile that includes:
-- Courses they’ve taken and can help with (“Sensei”).
-- Courses they’re currently taking and need help with (“Grasshopper”).
+- Courses they’ve taken and can help with.
+- Courses they’re currently taking and need help with.
 - A profile photo for easy visual identification.
 
-Each ICS course has a page displaying all sensei and grasshoppers. Grasshoppers can propose a study session around a specific topic and time. Notifications are then sent to all relevant users who can RSVP.
+Each ICS course has a page displaying all students who've taken or are taking the course. Notifications are then sent to all relevant users who can RSVP.
 
 ### Study Session Options
 There are two types of study sessions:
@@ -61,6 +61,10 @@ The challenge is to design the reward system to prevent abuse or “gaming” th
 
 Admins oversee behavior and handle reports of inappropriate use.
 
+## Guest View
+
+<img src="" />
+
 ---
 
 ## Developer Guide
@@ -71,9 +75,12 @@ Admins oversee behavior and handle reports of inappropriate use.
 - Maintain a calendar view of all upcoming sessions.
 - Implement admin monitoring and gamification systems.
 
-### Technology Stack (suggested)
+### Technology Stack
 - Bootstrap + React for the web application.
-- PostgreSQL for user and session data.
+- Nextjs as the React framework.
+- Typescript for backend and frontend.
+- ESLint and Prettier for code standardization. 
+- PostgreSQL for object-relational mapping.
 - Google Calendar API for the session calendar UI.
 - Slack integration for notifications.
 
