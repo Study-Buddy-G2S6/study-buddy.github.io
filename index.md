@@ -21,6 +21,12 @@
 ## Deployment
 <a href="https://study-buddy-flax-ten.vercel.app/">View Current Website</a>
 
+## Milestones
+- Our progress is tracked using issue driven project management. Our issues (tasks) are displayed in three milestones below:
+-   <a href="https://github.com/orgs/Study-Buddy-G2S6/projects/1">M1</a>
+-   <a href="https://github.com/orgs/Study-Buddy-G2S6/projects/2">M2</a>
+-   <a href="https://github.com/orgs/Study-Buddy-G2S6/projects/3">M3</a>
+
 ---
 
 ## Overview
