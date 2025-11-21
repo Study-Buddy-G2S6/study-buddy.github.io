@@ -23,9 +23,9 @@
 
 ## Milestones
 - Our progress is tracked using issue driven project management. Our issues (tasks) are displayed in three milestones below:
--   <a href="https://github.com/orgs/Study-Buddy-G2S6/projects/1">M1</a>
--   <a href="https://github.com/orgs/Study-Buddy-G2S6/projects/2">M2</a>
--   <a href="https://github.com/orgs/Study-Buddy-G2S6/projects/3">M3</a>
+-   <a href="https://github.com/orgs/Study-Buddy-G2S6/projects/1">Milestone 1</a> (November 6 - November 20)
+-   <a href="https://github.com/orgs/Study-Buddy-G2S6/projects/2">Milestone 2</a> (November 21 - December 2)
+-   <a href="https://github.com/orgs/Study-Buddy-G2S6/projects/3">Milestone 3</a> (December 3 - December 11)
 
 ---
 
